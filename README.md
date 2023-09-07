@@ -1,8 +1,8 @@
-# ERC20 ICO Template - Not Audited!
+# ERC20 Initial Coin Offering (ICO)
 
 ## Overview
 
-`Erc20Token.sol` is a template for an Initial Coin Offering Cointract(ICO). Users can send ETH directly to the contract and will receive tokens according to a specified exchange rate.
+`Erc20Token.sol` is a template for an Initial Coin Offering Contract (ICO). Users can send ETH directly to the contract and will receive tokens according to a specified exchange rate.
 
 ### Installation
 
